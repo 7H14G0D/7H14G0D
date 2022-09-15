@@ -8,9 +8,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h14g0d&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <p></p>
-<p align="left">
-  
-  <img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" >
+<div>
+    <img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" >
   <img align="center" alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,11 +18,10 @@
 </p>
   <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  
-
-  
-  ##
+</div>
+<p align="left">
+ 
+##
  
 <div> 
   <a href="https://7h14g0d.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=homepage&logoColor=white" target="_blank"></a> 
