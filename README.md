@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h14g0d&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <p></p>
-<p align="left">
+<p align="center">
   
   <img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" >
   <img align="center" alt="css3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
