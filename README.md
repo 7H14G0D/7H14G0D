@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&multiline=true&width=435&lines=Ol%C3%A1!+eu+sou+o+Thiago+Menezes;mas+pode+me+chamar+de+7H14G0D;...;..." alt="Typing SVG" /></a>
 
-<p>Graduando em Sistemas da Informação, Cristão, Luthier, Músico e Gamer - Seja bem vindo(a)!</p>
+<p>Graduando em Sistemas de Informação, Cristão, Pai, Luthier, Músico e Gamer - Seja bem vindo(a)!</p>
 
 <div align="left">
   <a href="https://github.com/7H14G0D">
