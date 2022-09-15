@@ -2,7 +2,7 @@
 
 <p>Graduando em Sistemas da Informação, Cristão, Luthier, Músico e Gamer - Seja bem vindo(a)!</p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/7H14G0D">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=7h14g0d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7h14g0d&layout=compact&langs_count=7&theme=tokyonight"/>
