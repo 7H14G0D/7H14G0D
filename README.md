@@ -20,7 +20,7 @@
 <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> 
 <img align="center" alt="python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">  
-<img align="center" alt="html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" >
+<img align="center" alt="html5" height="40" width="40" src="https://www.svgrepo.com/show/331723/git-deployment.svg" >
 <img align="center" alt="html5" height="40" width="40" src="https://www.svgrepo.com/show/217753/github.svg" >
   
   
