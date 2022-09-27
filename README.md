@@ -36,7 +36,7 @@
 ##
  
 <div> 
-  <a href="https://github.com/7H14G0D" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=homepage&logoColor=white" target="_blank"></a> 
+  <a href="https://thiagonet.com" target="_blank"><img src="https://img.shields.io/badge/-Site-%230077B5?style=for-the-badge&logo=homepage&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
